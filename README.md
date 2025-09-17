@@ -1,5 +1,3 @@
-<div align="center">
-
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=Welcome+to+the+Matrix;There+is+no+spoon;Follow+the+white+rabbit;The+Matrix+has+you" alt="Matrix Typing Animation" />
 
 <br>
@@ -28,6 +26,20 @@
 <div style="background: #000000; padding: 15px; border-left: 5px solid #00FF00; margin: 10px 0;">
 
 ### <span style="color: #00FF00;">🚀 "There is no spoon..." 🚀</span>
+
+</div>
+
+---
+
+## <span style="color: #00FF00;">🎯 ABOUT ME 🎯</span>
+
+<div style="background: #000000; padding: 20px; border-radius: 10px; border: 2px solid #00FF00;">
+
+<div style="background: #001100; padding: 15px; border-radius: 5px; border: 1px solid #00FF00; margin: 15px 0;">
+
+I am very interested in **<span style="color: #00FF00;">AI and its applications in various domains</span>**. My passion lies in exploring how artificial intelligence can transform different industries and solve complex real-world problems. From machine learning algorithms to deep learning models, I'm constantly learning and experimenting with cutting-edge AI technologies.
+
+</div>
 
 </div>
 
@@ -267,8 +279,6 @@ $ fortune | cowsay -f dragon
 ![Visitor Count](https://profile-counter.glitch.me/aman-bcalm/count.svg)
 
 **<span style="color: #00FF00;">Last Updated:</span>** `date +"%Y-%m-%d %H:%M:%S"`
-
-</div>
 
 </div>
 
