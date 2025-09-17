@@ -4,7 +4,7 @@
 
 <br>
 
-<div style="background: linear-gradient(135deg, #0D2C4E, #1A3A5C, #2C4A6B); padding: 30px; border-radius: 20px; border: 2px solid #4A90E2; box-shadow: 0 8px 32px rgba(74, 144, 226, 0.3);">
+<div style="background: linear-gradient(rgba(13, 44, 78, 0.9), rgba(26, 58, 92, 0.9)), url('https://images.unsplash.com/photo-1518709268805-4e9042af2176?ixlib=rb-4.0.3&auto=format&fit=crop&w=1920&q=80'); background-size: cover; background-position: center; padding: 30px; border-radius: 20px; border: 2px solid #4A90E2; box-shadow: 0 8px 32px rgba(74, 144, 226, 0.3);">
 
 # <span style="color: #4A90E2; font-family: 'Courier New', monospace; text-shadow: 0 0 10px #4A90E2;">⚡ Aman Prakash ⚡</span>
 
