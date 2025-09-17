@@ -46,8 +46,6 @@ I am very interested in **<span style="color: #BDBFCB;">AI and its applications 
 
 <div style="background: rgba(0, 0, 0, 0.8); padding: 20px; border-radius: 15px; margin: 15px 0; backdrop-filter: blur(10px); border: 1px solid #4A90E2;">
 
-<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 15px;">
-
 <div style="background: rgba(74, 144, 226, 0.1); padding: 15px; border-radius: 10px; border: 1px solid #4A90E2;">
 
 **<span style="color: #BDBFCB;">AI & Machine Learning</span>**
@@ -55,18 +53,6 @@ I am very interested in **<span style="color: #BDBFCB;">AI and its applications 
 - Neural Networks  
 - Computer Vision
 - Natural Language Processing
-
-</div>
-
-<div style="background: rgba(74, 144, 226, 0.1); padding: 15px; border-radius: 10px; border: 1px solid #4A90E2;">
-
-**<span style="color: #BDBFCB;">Technologies</span>**
-- Python
-- TensorFlow
-- PyTorch
-- Data Science
-
-</div>
 
 </div>
 
