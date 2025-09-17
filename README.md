@@ -82,47 +82,6 @@ I am very interested in **<span style="color: #BDBFCB;">AI and its applications 
 
 <div style="background: linear-gradient(135deg, #0D2C4E, #1A3A5C, #2C4A6B); padding: 25px; border-radius: 20px; border: 2px solid #4A90E2; margin: 20px 0;">
 
-## <span style="color: #4A90E2; font-family: 'Courier New', monospace;">⚡ Technologies ⚡</span>
-
-<div style="background: rgba(0, 0, 0, 0.8); padding: 20px; border-radius: 15px; margin: 15px 0; backdrop-filter: blur(10px); border: 1px solid #4A90E2;">
-
-![Python](https://img.shields.io/badge/Python-4A90E2?style=for-the-badge&logo=python&logoColor=white&labelColor=0D2C4E)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-4A90E2?style=for-the-badge&logo=tensorflow&logoColor=white&labelColor=0D2C4E)
-![PyTorch](https://img.shields.io/badge/PyTorch-4A90E2?style=for-the-badge&logo=pytorch&logoColor=white&labelColor=0D2C4E)
-![Jupyter](https://img.shields.io/badge/Jupyter-4A90E2?style=for-the-badge&logo=jupyter&logoColor=white&labelColor=0D2C4E)
-![Git](https://img.shields.io/badge/Git-4A90E2?style=for-the-badge&logo=git&logoColor=white&labelColor=0D2C4E)
-![GitHub](https://img.shields.io/badge/GitHub-4A90E2?style=for-the-badge&logo=github&logoColor=white&labelColor=0D2C4E)
-
-</div>
-
-</div>
-
-</div>
-
----
-
-<div align="center">
-
-<div style="background: linear-gradient(135deg, #0D2C4E, #1A3A5C, #2C4A6B); padding: 25px; border-radius: 20px; border: 2px solid #4A90E2; margin: 20px 0;">
-
-## <span style="color: #4A90E2; font-family: 'Courier New', monospace;">⚡ GitHub Stats ⚡</span>
-
-<div style="background: rgba(0, 0, 0, 0.8); padding: 20px; border-radius: 15px; margin: 15px 0; backdrop-filter: blur(10px); border: 1px solid #4A90E2;">
-
-![Visitor Count](https://profile-counter.glitch.me/aman-bcalm/count.svg)
-
-</div>
-
-</div>
-
-</div>
-
----
-
-<div align="center">
-
-<div style="background: linear-gradient(135deg, #0D2C4E, #1A3A5C, #2C4A6B); padding: 25px; border-radius: 20px; border: 2px solid #4A90E2; margin: 20px 0;">
-
 ## <span style="color: #4A90E2; font-family: 'Courier New', monospace;">⚡ Connect ⚡</span>
 
 <div style="background: rgba(0, 0, 0, 0.8); padding: 20px; border-radius: 15px; margin: 15px 0; backdrop-filter: blur(10px); border: 1px solid #4A90E2;">
