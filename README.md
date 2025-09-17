@@ -1,253 +1,18 @@
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=Welcome+to+the+Matrix;There+is+no+spoon;Follow+the+white+rabbit;The+Matrix+has+you" alt="Matrix Typing Animation" />
+<div align="center">
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=8B7F8B&center=true&vCenter=true&width=500&lines=こんにちは;Welcome+to+my+space;明日は来ない;Until+it's+too+late" alt="Japanese Lo-fi Typing Animation" />
 
 <br>
 
-<img src="https://raw.githubusercontent.com/aman-bcalm/aman-bcalm/main/matrix-rain.svg" alt="Matrix Code Rain" width="100%" />
+<div style="background: linear-gradient(135deg, #F5F1EB, #E8D5C4, #D4C4A8); padding: 30px; border-radius: 20px; border: 1px solid #C4A484; box-shadow: 0 8px 32px rgba(139, 127, 139, 0.1);">
 
-<br>
+# <span style="color: #8B7F8B; font-family: 'Courier New', monospace;">🌸 Aman Prakash 🌸</span>
 
-<div style="background: linear-gradient(45deg, #000000, #001100, #000000); padding: 20px; border-radius: 10px; border: 2px solid #00FF00;">
+<div style="background: rgba(255, 255, 255, 0.7); padding: 20px; border-radius: 15px; margin: 20px 0; backdrop-filter: blur(10px);">
 
-# <span style="color: #00FF00; text-shadow: 0 0 10px #00FF00;">🔴 THE MATRIX 🔴</span>
-
-```bash
-███╗   ███╗ █████╗ ████████╗██████╗ ██╗██╗  ██╗
-████╗ ████║██╔══██╗╚══██╔══╝██╔══██╗██║╚██╗██╔╝
-██╔████╔██║███████║   ██║   ██████╔╝██║ ╚███╔╝ 
-██║╚██╔╝██║██╔══██║   ██║   ██╔══██╗██║ ██╔██╗ 
-██║ ╚═╝ ██║██║  ██║   ██║   ██║  ██║██║██╔╝ ██╗
-╚═╝     ╚═╝╚═╝  ╚═╝   ╚═╝   ╚═╝  ╚═╝╚═╝╚═╝  ╚═╝
-```
+### <span style="color: #6B5B73; font-size: 18px;">"Tomorrow never comes until it's too late"</span>
 
 </div>
-
-<br>
-
-<div style="background: #000000; padding: 15px; border-left: 5px solid #00FF00; margin: 10px 0;">
-
-### <span style="color: #00FF00;">🚀 "Tomorrow never comes until it's too late" 🚀</span>
-
-</div>
-
----
-
-## <span style="color: #00FF00;">🎯 ABOUT ME 🎯</span>
-
-<div style="background: #000000; padding: 20px; border-radius: 10px; border: 2px solid #00FF00;">
-
-<div style="background: #001100; padding: 15px; border-radius: 5px; border: 1px solid #00FF00; margin: 15px 0;">
-
-I am very interested in **<span style="color: #00FF00;">AI and its applications in various domains</span>**. My passion lies in exploring how artificial intelligence can transform different industries and solve complex real-world problems. From machine learning algorithms to deep learning models, I'm constantly learning and experimenting with cutting-edge AI technologies.
-
-</div>
-
-</div>
-
----
-
-## <span style="color: #00FF00;">🎯 THE ONE 🎯</span>
-
-<div style="background: #001100; padding: 15px; border-radius: 5px; border: 1px solid #00FF00;">
-
-```bash
-$ whoami
-# Aman Prakash - The Developer Who Chose the Red Pill
-# Agent Status: ACTIVE
-# Mission: Building the Future
-# Location: Digital Realm
-```
-
-</div>
-
-### <span style="color: #00FF00;">🔥 SKILLS ARSENAL 🔥</span>
-
-<div style="background: #000000; padding: 20px; border-radius: 10px; border: 2px solid #00FF00;">
-
-```matrix
-AI & Machine Learning: ████████████████████████████████████ 100%
-Deep Learning:        ████████████████████████████████████ 100%
-Neural Networks:      ████████████████████████████████████ 100%
-Computer Vision:      ████████████████████████████████████ 100%
-Natural Language Processing: ████████████████████████████████████ 100%
-Data Science:         ████████████████████████████████████ 100%
-Python:              ████████████████████████████████████ 100%
-TensorFlow/PyTorch:  ████████████████████████████████████ 100%
-```
-
-</div>
-
----
-
-## <span style="color: #00FF00;">🛠️ MATRIX TOOLS 🛠️</span>
-
-<div style="background: #000000; padding: 20px; border-radius: 10px; border: 2px solid #00FF00;">
-
-### <span style="color: #00FF00;">💻 Languages & Frameworks</span>
-
-<div style="display: flex; flex-wrap: wrap; gap: 10px; margin: 15px 0;">
-
-![Python](https://img.shields.io/badge/Python-00FF00?style=for-the-badge&logo=python&logoColor=000000&labelColor=000000)
-![JavaScript](https://img.shields.io/badge/JavaScript-00FF00?style=for-the-badge&logo=javascript&logoColor=000000&labelColor=000000)
-![Jupyter](https://img.shields.io/badge/Jupyter-00FF00?style=for-the-badge&logo=jupyter&logoColor=000000&labelColor=000000)
-![Pandas](https://img.shields.io/badge/Pandas-00FF00?style=for-the-badge&logo=pandas&logoColor=000000&labelColor=000000)
-![NumPy](https://img.shields.io/badge/NumPy-00FF00?style=for-the-badge&logo=numpy&logoColor=000000&labelColor=000000)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-00FF00?style=for-the-badge&logo=scikit-learn&logoColor=000000&labelColor=000000)
-
-</div>
-
-### <span style="color: #00FF00;">🔧 Tools & Technologies</span>
-
-<div style="display: flex; flex-wrap: wrap; gap: 10px; margin: 15px 0;">
-
-![Git](https://img.shields.io/badge/Git-00FF00?style=for-the-badge&logo=git&logoColor=000000&labelColor=000000)
-![GitHub](https://img.shields.io/badge/GitHub-00FF00?style=for-the-badge&logo=github&logoColor=000000&labelColor=000000)
-![VS Code](https://img.shields.io/badge/VS_Code-00FF00?style=for-the-badge&logo=visual-studio-code&logoColor=000000&labelColor=000000)
-![Linux](https://img.shields.io/badge/Linux-00FF00?style=for-the-badge&logo=linux&logoColor=000000&labelColor=000000)
-
-</div>
-
-</div>
-
----
-
-## <span style="color: #00FF00;">📊 MATRIX STATS 📊</span>
-
-<div style="background: #000000; padding: 20px; border-radius: 10px; border: 2px solid #00FF00;">
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/aman-bcalm/aman-bcalm/main/matrix-stats.svg" alt="Matrix Stats" width="100%" />
-
-</div>
-
-<div style="background: #001100; padding: 15px; border-radius: 5px; border: 1px solid #00FF00; margin: 15px 0;">
-
-```bash
-# Current Status
-$ echo "Agent Status: ACTIVE"
-Agent Status: ACTIVE
-
-$ echo "Mission: Building the Future"
-Mission: Building the Future
-
-$ echo "Location: Digital Realm"
-Location: Digital Realm
-
-$ echo "Next Target: Your Next Project"
-Next Target: Your Next Project
-```
-
-</div>
-
-</div>
-
----
-
-## <span style="color: #00FF00;">🎮 RECENT MISSIONS 🎮</span>
-
-<div style="background: #000000; padding: 20px; border-radius: 10px; border: 2px solid #00FF00;">
-
-### <span style="color: #00FF00;">🏆 Completed Operations</span>
-
-<div style="background: #001100; padding: 15px; border-radius: 5px; border: 1px solid #00FF00; margin: 15px 0;">
-
-- **<span style="color: #00FF00;">Scaler Problems</span>** - Advanced algorithmic challenges solved
-- **<span style="color: #00FF00;">Uniswap Liquidity Scraping</span>** - DeFi data extraction protocols
-- **<span style="color: #00FF00;">NLP Projects</span>** - Natural language processing operations
-- **<span style="color: #00FF00;">Incubyte Assessment</span>** - Specialized coding missions
-- **<span style="color: #00FF00;">Turing Projects</span>** - AI and machine learning implementations
-
-</div>
-
-### <span style="color: #00FF00;">🎯 Current Objectives</span>
-
-<div style="background: #001100; padding: 15px; border-radius: 5px; border: 1px solid #00FF00; margin: 15px 0;">
-
-```python
-def current_mission():
-    return {
-        "status": "IN_PROGRESS",
-        "objective": "Master the Matrix of Code",
-        "next_target": "Advanced AI Systems",
-        "deadline": "Continuous Learning",
-        "agent": "Aman Prakash",
-        "clearance": "LEVEL 9"
-    }
-```
-
-</div>
-
-</div>
-
----
-
-## <span style="color: #00FF00;">🌐 CONNECT WITH THE ONE 🌐</span>
-
-<div style="background: #000000; padding: 20px; border-radius: 10px; border: 2px solid #00FF00;">
-
-<div align="center">
-
-[![GitHub](https://img.shields.io/badge/GitHub-00FF00?style=for-the-badge&logo=github&logoColor=000000&labelColor=000000)](https://github.com/aman-bcalm)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-00FF00?style=for-the-badge&logo=linkedin&logoColor=000000&labelColor=000000)](https://linkedin.com/in/aman-prakash)
-[![Email](https://img.shields.io/badge/Email-00FF00?style=for-the-badge&logo=gmail&logoColor=000000&labelColor=000000)](mailto:aman@example.com)
-
-</div>
-
-</div>
-
----
-
-## <span style="color: #00FF00;">💬 MATRIX QUOTES 💬</span>
-
-<div style="background: #000000; padding: 20px; border-radius: 10px; border: 2px solid #00FF00;">
-
-<div style="background: #001100; padding: 15px; border-radius: 5px; border: 1px solid #00FF00; margin: 15px 0;">
-
-> *<span style="color: #00FF00;">"The Matrix is everywhere. It is all around us. Even now, in this very room."</span>* - **Morpheus**
-
-</div>
-
-<div style="background: #001100; padding: 15px; border-radius: 5px; border: 1px solid #00FF00; margin: 15px 0;">
-
-> *<span style="color: #00FF00;">"There is no spoon."</span>* - **Neo**
-
-</div>
-
-<div style="background: #001100; padding: 15px; border-radius: 5px; border: 1px solid #00FF00; margin: 15px 0;">
-
-> *<span style="color: #00FF00;">"Welcome to the real world."</span>* - **Morpheus**
-
-</div>
-
-</div>
-
----
-
-## <span style="color: #00FF00;">🔮 THE ORACLE SAYS 🔮</span>
-
-<div style="background: #000000; padding: 20px; border-radius: 10px; border: 2px solid #00FF00;">
-
-<div style="background: #001100; padding: 15px; border-radius: 5px; border: 1px solid #00FF00; margin: 15px 0;">
-
-```bash
-$ fortune | cowsay -f dragon
-```
-
-```
- _________________________________________
-/ "The future is not set. There is no fate \
-| but what we make for ourselves." - Sarah |
-\ Connor                                  /
- -----------------------------------------
-        \                    / \  //\
-         \    |\___/|      /   \//  \\
-          \   /0  0  \__  /    //  | \ \    
-           \/     /  \/_/    //   |  \  \  
-           |   \_/  |      //    |   \   \ 
-           \_/     |     //     |    \    \
-         \  \_/   \_/  //      |     \    \
-          \_/     \_/  //       |      \    \
-```
 
 </div>
 
@@ -257,15 +22,15 @@ $ fortune | cowsay -f dragon
 
 <div align="center">
 
-<div style="background: linear-gradient(45deg, #000000, #001100, #000000); padding: 30px; border-radius: 15px; border: 3px solid #00FF00;">
+<div style="background: linear-gradient(135deg, #F0E6D2, #E6D7C3, #DCC7B4); padding: 25px; border-radius: 20px; border: 1px solid #C4A484; margin: 20px 0;">
 
-### <span style="color: #00FF00; text-shadow: 0 0 15px #00FF00;">🚨 WARNING: YOU HAVE ENTERED THE MATRIX 🚨</span>
+## <span style="color: #8B7F8B; font-family: 'Courier New', monospace;">🎌 About Me 🎌</span>
 
-**<span style="color: #00FF00;">Remember: There is no spoon. Only code.</span>**
+<div style="background: rgba(255, 255, 255, 0.8); padding: 20px; border-radius: 15px; margin: 15px 0; backdrop-filter: blur(10px);">
 
-![Matrix](https://img.shields.io/badge/Matrix-Reality-00FF00?style=for-the-badge&logo=matrix&logoColor=000000&labelColor=000000)
+I am very interested in **<span style="color: #6B5B73;">AI and its applications in various domains</span>**. My passion lies in exploring how artificial intelligence can transform different industries and solve complex real-world problems. From machine learning algorithms to deep learning models, I'm constantly learning and experimenting with cutting-edge AI technologies.
 
-**<span style="color: #00FF00;">"Follow the white rabbit..."</span> 🐰
+</div>
 
 </div>
 
@@ -275,11 +40,116 @@ $ fortune | cowsay -f dragon
 
 <div align="center">
 
-<div style="background: #000000; padding: 20px; border-radius: 10px; border: 2px solid #00FF00;">
+<div style="background: linear-gradient(135deg, #F5F1EB, #E8D5C4, #D4C4A8); padding: 25px; border-radius: 20px; border: 1px solid #C4A484; margin: 20px 0;">
+
+## <span style="color: #8B7F8B; font-family: 'Courier New', monospace;">🎯 Skills & Expertise 🎯</span>
+
+<div style="background: rgba(255, 255, 255, 0.8); padding: 20px; border-radius: 15px; margin: 15px 0; backdrop-filter: blur(10px);">
+
+<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 15px;">
+
+<div style="background: rgba(139, 127, 139, 0.1); padding: 15px; border-radius: 10px; border: 1px solid #C4A484;">
+
+**<span style="color: #6B5B73;">AI & Machine Learning</span>**
+- Deep Learning
+- Neural Networks  
+- Computer Vision
+- Natural Language Processing
+
+</div>
+
+<div style="background: rgba(139, 127, 139, 0.1); padding: 15px; border-radius: 10px; border: 1px solid #C4A484;">
+
+**<span style="color: #6B5B73;">Technologies</span>**
+- Python
+- TensorFlow
+- PyTorch
+- Data Science
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+---
+
+<div align="center">
+
+<div style="background: linear-gradient(135deg, #F0E6D2, #E6D7C3, #DCC7B4); padding: 25px; border-radius: 20px; border: 1px solid #C4A484; margin: 20px 0;">
+
+## <span style="color: #8B7F8B; font-family: 'Courier New', monospace;">🛠️ Technologies 🛠️</span>
+
+<div style="background: rgba(255, 255, 255, 0.8); padding: 20px; border-radius: 15px; margin: 15px 0; backdrop-filter: blur(10px);">
+
+![Python](https://img.shields.io/badge/Python-8B7F8B?style=for-the-badge&logo=python&logoColor=white&labelColor=F5F1EB)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-8B7F8B?style=for-the-badge&logo=tensorflow&logoColor=white&labelColor=F5F1EB)
+![PyTorch](https://img.shields.io/badge/PyTorch-8B7F8B?style=for-the-badge&logo=pytorch&logoColor=white&labelColor=F5F1EB)
+![Jupyter](https://img.shields.io/badge/Jupyter-8B7F8B?style=for-the-badge&logo=jupyter&logoColor=white&labelColor=F5F1EB)
+![Git](https://img.shields.io/badge/Git-8B7F8B?style=for-the-badge&logo=git&logoColor=white&labelColor=F5F1EB)
+![GitHub](https://img.shields.io/badge/GitHub-8B7F8B?style=for-the-badge&logo=github&logoColor=white&labelColor=F5F1EB)
+
+</div>
+
+</div>
+
+</div>
+
+---
+
+<div align="center">
+
+<div style="background: linear-gradient(135deg, #F5F1EB, #E8D5C4, #D4C4A8); padding: 25px; border-radius: 20px; border: 1px solid #C4A484; margin: 20px 0;">
+
+## <span style="color: #8B7F8B; font-family: 'Courier New', monospace;">📊 GitHub Stats 📊</span>
+
+<div style="background: rgba(255, 255, 255, 0.8); padding: 20px; border-radius: 15px; margin: 15px 0; backdrop-filter: blur(10px);">
 
 ![Visitor Count](https://profile-counter.glitch.me/aman-bcalm/count.svg)
 
-**<span style="color: #00FF00;">Last Updated:</span>** `date +"%Y-%m-%d %H:%M:%S"`
+</div>
+
+</div>
+
+</div>
+
+---
+
+<div align="center">
+
+<div style="background: linear-gradient(135deg, #F0E6D2, #E6D7C3, #DCC7B4); padding: 25px; border-radius: 20px; border: 1px solid #C4A484; margin: 20px 0;">
+
+## <span style="color: #8B7F8B; font-family: 'Courier New', monospace;">🌐 Connect 🌐</span>
+
+<div style="background: rgba(255, 255, 255, 0.8); padding: 20px; border-radius: 15px; margin: 15px 0; backdrop-filter: blur(10px);">
+
+[![GitHub](https://img.shields.io/badge/GitHub-8B7F8B?style=for-the-badge&logo=github&logoColor=white&labelColor=F5F1EB)](https://github.com/aman-bcalm)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-8B7F8B?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=F5F1EB)](https://linkedin.com/in/aman-prakash)
+[![Email](https://img.shields.io/badge/Email-8B7F8B?style=for-the-badge&logo=gmail&logoColor=white&labelColor=F5F1EB)](mailto:aman@example.com)
+
+</div>
+
+</div>
+
+</div>
+
+---
+
+<div align="center">
+
+<div style="background: linear-gradient(135deg, #F5F1EB, #E8D5C4, #D4C4A8); padding: 20px; border-radius: 20px; border: 1px solid #C4A484; margin: 20px 0;">
+
+<div style="background: rgba(255, 255, 255, 0.7); padding: 15px; border-radius: 15px; margin: 15px 0; backdrop-filter: blur(10px);">
+
+**<span style="color: #6B5B73;">"Tomorrow never comes until it's too late"</span>**
+
+</div>
+
+</div>
 
 </div>
 
