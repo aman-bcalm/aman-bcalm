@@ -4,10 +4,11 @@
 
 <br>
 
-<div style="background: linear-gradient(rgba(13, 44, 78, 0.7), rgba(26, 58, 92, 0.7)), url('https://raw.githubusercontent.com/aman-bcalm/aman-bcalm/main/LoFi%20Git.jpg'); background-size: cover; background-position: center; padding: 30px; border-radius: 20px; border: 2px solid #4A90E2; box-shadow: 0 8px 32px rgba(74, 144, 226, 0.3); position: relative; overflow: hidden;">
-  
-  <!-- Content -->
-  <div style="position: relative; z-index: 1;">
+<img src="https://raw.githubusercontent.com/aman-bcalm/aman-bcalm/main/LoFi%20Git.jpg" alt="LoFi Cityscape" style="width: 100%; max-width: 800px; border-radius: 20px; border: 2px solid #4A90E2; box-shadow: 0 8px 32px rgba(74, 144, 226, 0.3);" />
+
+<br>
+
+<div style="background: linear-gradient(135deg, #0D2C4E, #1A3A5C, #2C4A6B); padding: 30px; border-radius: 20px; border: 2px solid #4A90E2; box-shadow: 0 8px 32px rgba(74, 144, 226, 0.3); margin-top: 20px;">
 
 # <span style="color: #4A90E2; font-family: 'Courier New', monospace; text-shadow: 0 0 10px #4A90E2;">⚡ Aman Prakash ⚡</span>
 
@@ -17,7 +18,6 @@
 
 </div>
 
-  </div>
 </div>
 
 </div>
