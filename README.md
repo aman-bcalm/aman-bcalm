@@ -4,7 +4,7 @@
 
 <br>
 
-<div style="background: linear-gradient(rgba(13, 44, 78, 0.7), rgba(26, 58, 92, 0.7)), url('./LoFi Git.jpg'); background-size: cover; background-position: center; background-attachment: fixed; padding: 30px; border-radius: 20px; border: 2px solid #4A90E2; box-shadow: 0 8px 32px rgba(74, 144, 226, 0.3); position: relative; overflow: hidden;">
+<div style="background: linear-gradient(rgba(13, 44, 78, 0.7), rgba(26, 58, 92, 0.7)), url('https://raw.githubusercontent.com/aman-bcalm/aman-bcalm/main/LoFi%20Git.jpg'); background-size: cover; background-position: center; padding: 30px; border-radius: 20px; border: 2px solid #4A90E2; box-shadow: 0 8px 32px rgba(74, 144, 226, 0.3); position: relative; overflow: hidden;">
   
   <!-- Content -->
   <div style="position: relative; z-index: 1;">
