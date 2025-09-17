@@ -1,17 +1,20 @@
-<svg width="400" height="200" xmlns="http://www.w3.org/2000/svg">
+<svg width="800" height="400" xmlns="http://www.w3.org/2000/svg">
   <defs>
     <style>
       .matrix-text {
         font-family: 'Courier New', monospace;
-        font-size: 12px;
+        font-size: 14px;
         fill: #00ff00;
         opacity: 0.8;
+        text-shadow: 0 0 5px #00ff00;
       }
       .matrix-text-bright {
         font-family: 'Courier New', monospace;
-        font-size: 12px;
+        font-size: 16px;
         fill: #ffffff;
         opacity: 1;
+        text-shadow: 0 0 10px #00ff00;
+        font-weight: bold;
       }
       .matrix-text-fade {
         font-family: 'Courier New', monospace;
@@ -19,21 +22,44 @@
         fill: #004400;
         opacity: 0.3;
       }
+      .matrix-text-glow {
+        font-family: 'Courier New', monospace;
+        font-size: 14px;
+        fill: #00ff00;
+        opacity: 0.9;
+        text-shadow: 0 0 8px #00ff00;
+      }
+      .matrix-bg {
+        fill: #000000;
+      }
     </style>
   </defs>
+  
+  <!-- Background -->
+  <rect width="800" height="400" class="matrix-bg"/>
   
   <!-- Matrix Code Rain Effect -->
   <g>
     <!-- Column 1 -->
     <text x="20" y="20" class="matrix-text-bright">01001000</text>
-    <text x="20" y="40" class="matrix-text">01100101</text>
+    <text x="20" y="40" class="matrix-text-glow">01100101</text>
     <text x="20" y="60" class="matrix-text">01101100</text>
     <text x="20" y="80" class="matrix-text">01101100</text>
-    <text x="20" y="100" class="matrix-text-fade">01101111</text>
+    <text x="20" y="100" class="matrix-text">01101111</text>
     <text x="20" y="120" class="matrix-text-fade">00100000</text>
     <text x="20" y="140" class="matrix-text-fade">01010111</text>
     <text x="20" y="160" class="matrix-text-fade">01101111</text>
     <text x="20" y="180" class="matrix-text-fade">01110010</text>
+    <text x="20" y="200" class="matrix-text-fade">01101100</text>
+    <text x="20" y="220" class="matrix-text-fade">01100100</text>
+    <text x="20" y="240" class="matrix-text-fade">00100001</text>
+    <text x="20" y="260" class="matrix-text-fade">01000001</text>
+    <text x="20" y="280" class="matrix-text-fade">01100011</text>
+    <text x="20" y="300" class="matrix-text-fade">01110100</text>
+    <text x="20" y="320" class="matrix-text-fade">01101001</text>
+    <text x="20" y="340" class="matrix-text-fade">01110110</text>
+    <text x="20" y="360" class="matrix-text-fade">01100101</text>
+    <text x="20" y="380" class="matrix-text-fade">00100000</text>
     
     <!-- Column 2 -->
     <text x="60" y="20" class="matrix-text-fade">01001101</text>
