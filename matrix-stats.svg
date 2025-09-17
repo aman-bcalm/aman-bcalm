@@ -1,0 +1,85 @@
+<svg width="800" height="400" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style>
+      .matrix-bg { fill: #000000; }
+      .matrix-text { font-family: 'Courier New', monospace; font-size: 14px; fill: #00ff00; }
+      .matrix-text-bright { font-family: 'Courier New', monospace; font-size: 16px; fill: #ffffff; font-weight: bold; }
+      .matrix-text-dim { font-family: 'Courier New', monospace; font-size: 12px; fill: #004400; }
+      .matrix-border { stroke: #00ff00; stroke-width: 2; fill: none; }
+      .matrix-bar { fill: #00ff00; opacity: 0.8; }
+      .matrix-bar-bg { fill: #001100; }
+    </style>
+  </defs>
+  
+  <!-- Background -->
+  <rect width="800" height="400" class="matrix-bg"/>
+  
+  <!-- Title -->
+  <text x="400" y="30" text-anchor="middle" class="matrix-text-bright">MATRIX AGENT STATISTICS</text>
+  
+  <!-- Stats Grid -->
+  <g transform="translate(50, 60)">
+    <!-- Programming Languages -->
+    <rect x="0" y="0" width="700" height="80" class="matrix-border"/>
+    <text x="10" y="20" class="matrix-text-bright">PROGRAMMING LANGUAGES</text>
+    
+    <!-- Python -->
+    <text x="20" y="40" class="matrix-text">Python:</text>
+    <rect x="120" y="35" width="500" height="8" class="matrix-bar-bg"/>
+    <rect x="120" y="35" width="500" height="8" class="matrix-bar"/>
+    <text x="630" y="42" class="matrix-text">100%</text>
+    
+    <!-- JavaScript -->
+    <text x="20" y="60" class="matrix-text">JavaScript:</text>
+    <rect x="120" y="55" width="450" height="8" class="matrix-bar-bg"/>
+    <rect x="120" y="55" width="450" height="8" class="matrix-bar"/>
+    <text x="630" y="62" class="matrix-text">90%</text>
+    
+    <!-- Skills Section -->
+    <rect x="0" y="100" width="700" height="80" class="matrix-border"/>
+    <text x="10" y="120" class="matrix-text-bright">SKILLS MATRIX</text>
+    
+    <!-- Machine Learning -->
+    <text x="20" y="140" class="matrix-text">Machine Learning:</text>
+    <rect x="150" y="135" width="480" height="8" class="matrix-bar-bg"/>
+    <rect x="150" y="135" width="480" height="8" class="matrix-bar"/>
+    <text x="640" y="142" class="matrix-text">95%</text>
+    
+    <!-- Data Science -->
+    <text x="20" y="160" class="matrix-text">Data Science:</text>
+    <rect x="150" y="155" width="460" height="8" class="matrix-bar-bg"/>
+    <rect x="150" y="155" width="460" height="8" class="matrix-bar"/>
+    <text x="640" y="162" class="matrix-text">92%</text>
+    
+    <!-- Projects Section -->
+    <rect x="0" y="200" width="700" height="80" class="matrix-border"/>
+    <text x="10" y="220" class="matrix-text-bright">MISSION STATUS</text>
+    
+    <!-- Completed Projects -->
+    <text x="20" y="240" class="matrix-text">Completed Missions:</text>
+    <text x="200" y="240" class="matrix-text-bright">16</text>
+    
+    <!-- Active Projects -->
+    <text x="20" y="260" class="matrix-text">Active Operations:</text>
+    <text x="200" y="260" class="matrix-text-bright">3</text>
+    
+    <!-- Success Rate -->
+    <text x="350" y="240" class="matrix-text">Success Rate:</text>
+    <text x="500" y="240" class="matrix-text-bright">98.7%</text>
+    
+    <!-- Code Quality -->
+    <text x="350" y="260" class="matrix-text">Code Quality:</text>
+    <text x="500" y="260" class="matrix-text-bright">A+</text>
+    
+    <!-- Matrix Code Rain Background -->
+    <g opacity="0.1">
+      <text x="10" y="300" class="matrix-text-dim">01001000 01100101 01101100 01101100 01101111</text>
+      <text x="10" y="320" class="matrix-text-dim">01010111 01101111 01110010 01101100 01100100</text>
+      <text x="10" y="340" class="matrix-text-dim">01001101 01100001 01110100 01110010 01101001 01111000</text>
+      <text x="10" y="360" class="matrix-text-dim">01000001 01100011 01110100 01101001 01110110 01100101</text>
+    </g>
+  </g>
+  
+  <!-- Footer -->
+  <text x="400" y="390" text-anchor="middle" class="matrix-text-dim">SYSTEM STATUS: ONLINE | LAST UPDATE: 2024-01-01</text>
+</svg>
