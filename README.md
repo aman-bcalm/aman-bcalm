@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=4A90E2&center=true&vCenter=true&width=500&lines=こんにちは;Welcome+to+my+space;明日は来ない;Until+it's+too+late" alt="Japanese Lo-fi Typing Animation" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=4A90E2&center=true&vCenter=true&width=500&lines=Welcome+to+my+space" alt="Typing Animation" />
 
 <br>
 
