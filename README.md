@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=4A90E2&center=true&vCenter=true&width=500&lines=Welcome+to+my+space;The+most+contrarian+thing+of+all+is+not+to+oppose+the+crowd+but+to+think+for+yourself" alt="Typing Animation" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=4A90E2&center=true&vCenter=true&width=500&lines=Welcome+to+my+space;Let+Go+or+Be+Dragged" alt="Typing Animation" />
 
 <br>
 
