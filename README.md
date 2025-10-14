@@ -94,7 +94,7 @@ I am very interested in **<span style="color: #BDBFCB;">AI and its applications 
 
 <div style="background: rgba(0, 0, 0, 0.7); padding: 15px; border-radius: 15px; margin: 15px 0; backdrop-filter: blur(10px); border: 1px solid #4A90E2;">
 
-**<span style="color: #BDBFCB;">"Tomorrow never comes until it's too late"</span>**
+**<span style="color: #BDBFCB;">"If people were super-optimistic about technology there would be no reason to be pessimistic about the future."</span>**
 
 </div>
 
