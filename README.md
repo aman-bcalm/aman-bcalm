@@ -77,7 +77,7 @@ I am very interested in **<span style="color: #BDBFCB;">AI and its applications 
 <div style="background: rgba(0, 0, 0, 0.8); padding: 20px; border-radius: 15px; margin: 15px 0; backdrop-filter: blur(10px); border: 1px solid #4A90E2;">
 
 [![GitHub](https://img.shields.io/badge/GitHub-4A90E2?style=for-the-badge&logo=github&logoColor=white&labelColor=0D2C4E)](https://github.com/aman-bcalm)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-4A90E2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D2C4E)](https://linkedin.com/in/aman-prakash)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-4A90E2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D2C4E)](https://www.linkedin.com/in/aman-infmax/)
 [![Email](https://img.shields.io/badge/Email-4A90E2?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D2C4E)](mailto:aman@example.com)
 
 </div>
